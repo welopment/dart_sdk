@@ -1,0 +1,11 @@
+{
+    "name": "dart_sdk",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dart_sdk.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
